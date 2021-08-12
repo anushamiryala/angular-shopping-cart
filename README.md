@@ -1,3 +1,2 @@
-# angular-simple-rxjs-shopping-cart-example-xezczn
+# angular-shopping-cart
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-simple-rxjs-shopping-cart-example-xezczn)
